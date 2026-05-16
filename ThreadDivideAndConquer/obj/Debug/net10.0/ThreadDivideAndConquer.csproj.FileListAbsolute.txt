@@ -1,0 +1,15 @@
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.exe
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.deps.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.runtimeconfig.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.pdb
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.AssemblyInfoInputs.cache
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.AssemblyInfo.cs
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.csproj.CoreCompileInputs.cache
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.sourcelink.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\refint\ThreadDivideAndConquer.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.pdb
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ThreadDivideAndConquer.genruntimeconfig.cache
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\obj\Debug\net10.0\ref\ThreadDivideAndConquer.dll
