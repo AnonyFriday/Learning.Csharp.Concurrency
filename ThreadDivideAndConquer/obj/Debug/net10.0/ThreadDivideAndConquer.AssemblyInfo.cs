@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadDivideAndConquer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d41d5d70ccde8ae294c8031feac97ebfdac358")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3282f03793d3ffa8d7281a003b055f46c5fd2531")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadDivideAndConquer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadDivideAndConquer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
