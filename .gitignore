@@ -1,0 +1,19 @@
+# Build folders
+**/[Bb]in/
+**/[Oo]bj/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temp files created by the projects
+countMutex.txt
+
+[Bb]in/
+[Oo]bj/
+**/*.userosscache

@@ -1,3 +1,8 @@
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ThreadDivideAndConquer.exe
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ThreadDivideAndConquer.deps.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ThreadDivideAndConquer.runtimeconfig.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ThreadDivideAndConquer.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ThreadDivideAndConquer.pdb
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.exe
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.deps.json
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ThreadDivideAndConquer\bin\Debug\net10.0\ThreadDivideAndConquer.runtimeconfig.json

@@ -1,3 +1,8 @@
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ProcessThread.exe
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ProcessThread.deps.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ProcessThread.runtimeconfig.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ProcessThread.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\ProcessThread.pdb
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\bin\Debug\net10.0\ProcessThread.exe
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\bin\Debug\net10.0\ProcessThread.deps.json
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\bin\Debug\net10.0\ProcessThread.runtimeconfig.json
@@ -7,9 +12,9 @@ E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\n
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.AssemblyInfoInputs.cache
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.AssemblyInfo.cs
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.csproj.CoreCompileInputs.cache
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.sourcelink.json
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.dll
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\refint\ProcessThread.dll
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.pdb
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.genruntimeconfig.cache
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ref\ProcessThread.dll
-E:\Learning\extra_dotnet\Projects\Learning.Concurrency\ProcessThread\obj\Debug\net10.0\ProcessThread.sourcelink.json

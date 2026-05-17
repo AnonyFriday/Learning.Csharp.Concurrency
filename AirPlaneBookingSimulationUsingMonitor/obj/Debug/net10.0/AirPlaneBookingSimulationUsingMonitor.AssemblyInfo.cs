@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirPlaneBookingSimulationUsingMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4258ba85a563c2fb3c2da9160e27f574aa20aae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f99ffa4c1f691df66f90229f3d55e20751bdf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirPlaneBookingSimulationUsingMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirPlaneBookingSimulationUsingMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

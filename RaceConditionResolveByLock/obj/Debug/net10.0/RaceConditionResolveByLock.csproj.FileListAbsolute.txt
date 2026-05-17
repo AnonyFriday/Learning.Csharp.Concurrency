@@ -1,3 +1,8 @@
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\RaceConditionResolveByLock.exe
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\RaceConditionResolveByLock.deps.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\RaceConditionResolveByLock.runtimeconfig.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\RaceConditionResolveByLock.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\RaceConditionResolveByLock.pdb
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\RaceConditionResolveByLock\bin\Debug\net10.0\RaceConditionResolveByLock.exe
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\RaceConditionResolveByLock\bin\Debug\net10.0\RaceConditionResolveByLock.deps.json
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\RaceConditionResolveByLock\bin\Debug\net10.0\RaceConditionResolveByLock.runtimeconfig.json

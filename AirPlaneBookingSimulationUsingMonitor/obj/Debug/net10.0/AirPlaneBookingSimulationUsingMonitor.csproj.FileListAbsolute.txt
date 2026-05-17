@@ -1,3 +1,8 @@
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\AirPlaneBookingSimulationUsingMonitor.exe
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\AirPlaneBookingSimulationUsingMonitor.deps.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\AirPlaneBookingSimulationUsingMonitor.runtimeconfig.json
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\AirPlaneBookingSimulationUsingMonitor.dll
+E:\Learning\extra_dotnet\Projects\Learning.Concurrency\SynchronizaProcessUsingMutex\AirPlaneBookingSimulationUsingMonitor.pdb
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\AirPlaneBookingSimulationUsingMonitor\bin\Debug\net10.0\AirPlaneBookingSimulationUsingMonitor.exe
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\AirPlaneBookingSimulationUsingMonitor\bin\Debug\net10.0\AirPlaneBookingSimulationUsingMonitor.deps.json
 E:\Learning\extra_dotnet\Projects\Learning.Concurrency\AirPlaneBookingSimulationUsingMonitor\bin\Debug\net10.0\AirPlaneBookingSimulationUsingMonitor.runtimeconfig.json
