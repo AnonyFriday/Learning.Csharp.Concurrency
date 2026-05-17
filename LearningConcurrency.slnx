@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AirPlaneBookingSimulation/AirPlaneBookingSimulation.csproj" />
+  <Project Path="ProcessThread/ProcessThread.csproj" />
+  <Project Path="RaceConditionResolveByLock/RaceConditionResolveByLock.csproj" />
+  <Project Path="ThreadDivideAndConquer/ThreadDivideAndConquer.csproj" />
+  <Project Path="ThreadWebServer/ThreadWebServer.csproj" />
+</Solution>

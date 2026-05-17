@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadWebServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e686d4a2ec20c80165afa136a36c7d0cceae95c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76d7a5b36c7ac5ed8e65329d8cd6f8c67ec1a5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadWebServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadWebServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
