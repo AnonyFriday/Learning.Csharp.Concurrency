@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AirPlaneBookingSimulation/AirPlaneBookingSimulation.csproj" />
+  <Project Path="AirPlaneBookingSimulationUsingMonitor/AirPlaneBookingSimulationUsingMonitor.csproj" />
+  <Project Path="ProcessThread/ProcessThread.csproj" />
+  <Project Path="RaceConditionResolveByLock/RaceConditionResolveByLock.csproj" />
+  <Project Path="ReaderWriterLock/ReaderWriterLock.csproj" />
+  <Project Path="SynchronizaProcessUsingMutex/SynchronizaProcessUsingMutex.csproj" />
+  <Project Path="ThreadDivideAndConquer/ThreadDivideAndConquer.csproj" />
+  <Project Path="ThreadWebServer/ThreadWebServer.csproj" />
+</Solution>
