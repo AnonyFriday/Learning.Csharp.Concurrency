@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Parallelism/">
+    <Project Path="Parallelism/ParallelsIteration/ParallelsIteration.csproj" />
+  </Folder>
   <Project Path="AirPlaneBookingSimulation/AirPlaneBookingSimulation.csproj" />
   <Project Path="AirPlaneBookingSimulationUsingMonitor/AirPlaneBookingSimulationUsingMonitor.csproj" />
   <Project Path="ProcessThread/ProcessThread.csproj" />
